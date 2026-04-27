@@ -1,0 +1,11 @@
+# Auto-generated starter symbols — edit freely
+AAPL
+MSFT
+NVDA
+TSLA
+META
+AMZN
+GOOGL
+GLD
+PTT.BK
+CPALL.BK
